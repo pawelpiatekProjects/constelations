@@ -1,7 +1,0 @@
-Informacje ogólne 
-
-1. W programie znajduj¹ sie 3 klasy
-	- Klasa Star - s³u¿y do tworzenia nowych gwiazd
-	- Klasa Main - jest to klasa s³u¿¹ca do sterowania ca³ym programem
-	- Klasa ProjectMethods - jest to klasa zawieraj¹ca statyczne metody pomocnicze u¿ywane w projekcie
-	- Klasa SuperClass - jest to klasa odpowiadaj¹ca za zapisywanie, odczytywanie danych z pliku oraz za wszystkie zadania wykonywane na zbiorze gwiazd
